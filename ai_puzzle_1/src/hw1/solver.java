@@ -1,4 +1,4 @@
-package ai_puzzle_1;
+package hw1;
 import java.util.Stack;
 
 
