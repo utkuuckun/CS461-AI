@@ -10,7 +10,7 @@ public class Test {
 		solv.createNet();
 		
 		solv.DFS(solv.start);
-		System.out.print("done");
+		System.out.print("Done");
 	}
 
 }
